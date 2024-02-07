@@ -1,3 +1,6 @@
+![](https://niixer.com/wp-content/uploads/2020/11/spring-boot.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png)
+
 ## Descripción ##
 
 App Full Stack de un Sistema De Manejo de Inventario, hecha con Spring Boot en la parte del Back-end, Angular en la parte del Front-end y el gestor de Bases de Datos MySQL, tiene todas las 
